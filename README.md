@@ -1,4 +1,4 @@
-My name is Víctor Gauto 🇦🇷.
+My name is <b>Víctor Gauto</b> 🇦🇷.
 
 I'm interested in GIS :world_map:, satellite products :satellite:	, water quality :droplet:, remote sensing :earth_americas: and data visualization :chart_with_upwards_trend:.
 
@@ -8,7 +8,7 @@ I'm interested in GIS :world_map:, satellite products :satellite:	, water qualit
 
 > **MS Chemical and Biomolecular Engineering**, Sogang University, South Korea.
 
-> **Chemical Engineering**, National Technological University.
+> **Chemical Engineering**, Universidad Tecnológica Nacional Facultad Regional Resistencia.
 
 Currently in [GISTAQ](https://www.facebook.com/GISTAQ) and [IIDTHH](https://iidthh.conicet.gov.ar/).
 
