@@ -1,6 +1,6 @@
 My name is Víctor Gauto 🇦🇷. I'm interested in GIS 🗺️, satellite products 📡, water quality 💧, remote sensing 🌎 and data visualization 📈.
 
-- **PhD student, Geomatic and Spatial Systems**, Instituto Gulich, CONAE, Universidad Nacional de Córdoba.
+- :white_check_mark: **PhD student, Geomatic and Spatial Systems**, Instituto Gulich, CONAE, Universidad Nacional de Córdoba.
 - **MS Applications of Spatial Information**, Instituto Gulich, CONAE, Universidad Nacional de Córdoba.
 - **MS Chemical and Biomolecular Engineering**, Sogang University, South Korea.
 - **Chemical Engineering**, National Technological University.
