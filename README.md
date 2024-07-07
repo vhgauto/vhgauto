@@ -1,8 +1,11 @@
 My name is Víctor Gauto 🇦🇷. I'm interested in GIS :world_map:, satellite products :satellite:	, water quality :droplet:, remote sensing :earth_americas: and data visualization :chart_with_upwards_trend:.
 
 > :white_check_mark: **PhD student, Geomatic and Spatial Systems**, Instituto Gulich, CONAE, Universidad Nacional de Córdoba.
+
 > :white_check_mark: **MS Applications of Spatial Information**, Instituto Gulich, CONAE, Universidad Nacional de Córdoba.
+
 > :white_check_mark: **MS Chemical and Biomolecular Engineering**, Sogang University, South Korea.
+
 > :white_check_mark: **Chemical Engineering**, National Technological University.
 
 Currently in [GISTAQ](https://www.facebook.com/GISTAQ) and [IIDTHH](https://iidthh.conicet.gov.ar/).
