@@ -2,9 +2,9 @@ My name is <b>Víctor Gauto</b> 🇦🇷.
 
 I'm interested in GIS :world_map:, satellite products :satellite:	, water quality :droplet:, remote sensing :earth_americas: and data visualization :chart_with_upwards_trend:.
 
-> [!WARNING]
-> **PhD student, Geomatic and Spatial Systems**, Instituto Gulich, CONAE, Universidad Nacional de Córdoba.<br>
-> **MS Applications of Spatial Information**, Instituto Gulich, CONAE, Universidad Nacional de Córdoba.<br>
+> [!NOTE]
+> + **PhD student, Geomatic and Spatial Systems**, Instituto Gulich, CONAE, Universidad Nacional de Córdoba.<br>
+> + **MS Applications of Spatial Information**, Instituto Gulich, CONAE, Universidad Nacional de Córdoba.<br>
 > **MS Chemical and Biomolecular Engineering**, Sogang University, South Korea.<br>
 > **Chemical Engineering**, Universidad Tecnológica Nacional Facultad Regional Resistencia.
 
