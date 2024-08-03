@@ -4,11 +4,8 @@ I'm interested in GIS :world_map:, satellite products :satellite:	, water qualit
 
 > [!WARNING]
 > **PhD student, Geomatic and Spatial Systems**, Instituto Gulich, CONAE, Universidad Nacional de Córdoba.
-
 > **MS Applications of Spatial Information**, Instituto Gulich, CONAE, Universidad Nacional de Córdoba.
-
 > **MS Chemical and Biomolecular Engineering**, Sogang University, South Korea.
-
 > **Chemical Engineering**, Universidad Tecnológica Nacional Facultad Regional Resistencia.
 
 Currently in [GISTAQ](https://www.facebook.com/GISTAQ) and [IIDTHH](https://iidthh.conicet.gov.ar/).
