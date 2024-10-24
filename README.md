@@ -10,6 +10,12 @@ I'm interested in GIS :world_map:, satellite products :satellite:	, water qualit
 
 Currently in [GISTAQ](https://www.facebook.com/GISTAQ) and [IIDTHH](https://iidthh.conicet.gov.ar/).
 
-[<img src='https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/medium/colored/twitter.svg'/>](https://twitter.com/vhgauto), [<img src='https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/medium/colored/instagram.svg'/>](https://www.instagram.com/vhgauto/), [<img src='https://joinmastodon.org/logos/logo-purple.svg' width=24 />](https://mastodon.social/@vhgauto), [<img src='https://orcid.org/assets/vectors/orcid.logo.icon.svg' width=24 />](https://orcid.org/0000-0001-9960-8558).
+[<img src='https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/medium/colored/twitter.svg'/>](https://twitter.com/vhgauto)
+<br>
+[<img src='https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/medium/colored/instagram.svg'/>](https://www.instagram.com/vhgauto/)
+<br>
+[<img src='https://joinmastodon.org/logos/logo-purple.svg' width=24 />](https://mastodon.social/@vhgauto)
+<br>
+[<img src='https://orcid.org/assets/vectors/orcid.logo.icon.svg' width=24 />](https://orcid.org/0000-0001-9960-8558)
 
 :compass:
