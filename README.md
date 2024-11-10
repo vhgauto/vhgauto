@@ -5,7 +5,8 @@ I'm interested in GIS :world_map:, satellite products :satellite:	, water qualit
 The tools I'm most confortable: `R` & `quarto`.
 
 > [!NOTE]
-> + **PhD student, Geomatic and Spatial Systems** (2023), Instituto Gulich, CONAE, Universidad Nacional de Córdoba, CONICET.
+> + **PhD student, Geomatic and Spatial Systems** (2023),
+    Instituto Gulich, CONAE, Universidad Nacional de Córdoba, CONICET.
 > + **MS Applications of Spatial Information** (2023), Instituto Gulich, CONAE, Universidad Nacional de Córdoba.
 > + **MS Chemical and Biomolecular Engineering** (2019), Sogang University, South Korea.
 > + **Chemical Engineering** (2014), Universidad Tecnológica Nacional Facultad Regional Resistencia.
