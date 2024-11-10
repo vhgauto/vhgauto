@@ -2,7 +2,7 @@ My name is <b>Víctor Gauto</b> 🇦🇷.
 
 I'm interested in GIS :world_map:, satellite products :satellite:	, water quality :droplet:, remote sensing :earth_americas: and data visualization :chart_with_upwards_trend:.
 
-The tools I'm most confortable: `R` & Quarto.
+The tools I'm most confortable: `R` & `quarto`.
 
 > [!NOTE]
 > + **PhD student, Geomatic and Spatial Systems** (2023), Instituto Gulich, CONAE, Universidad Nacional de Córdoba, CONICET.
