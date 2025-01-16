@@ -12,10 +12,6 @@ The tools I'm most confortable: `R` & `quarto`.
 
 Currently in [GISTAQ](https://www.facebook.com/GISTAQ) and [IIDTHH](https://iidthh.conicet.gov.ar/).
 
-[<img src='https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/medium/colored/twitter.svg'/>](https://twitter.com/vhgauto)
-[<img src='https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/medium/colored/instagram.svg'/>](https://www.instagram.com/vhgauto/)
-[<img src='https://joinmastodon.org/logos/logo-purple.svg' width=24 />](https://mastodon.social/@vhgauto)
-
 <a
 id="cy-effective-orcid-url"
 class="underline"
@@ -29,5 +25,9 @@ class="underline"
     alt="ORCID iD icon"/>
   https://orcid.org/0000-0001-9960-8558
 </a>
+
+[<img src='https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/medium/colored/twitter.svg'/>](https://twitter.com/vhgauto)
+[<img src='https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/medium/colored/instagram.svg'/>](https://www.instagram.com/vhgauto/)
+[<img src='https://joinmastodon.org/logos/logo-purple.svg' width=24 />](https://mastodon.social/@vhgauto)
 
 :compass:
