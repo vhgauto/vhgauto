@@ -30,4 +30,6 @@ class="underline"
 [<img src='https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/medium/colored/instagram.svg'/>](https://www.instagram.com/vhgauto/)
 [<img src='https://joinmastodon.org/logos/logo-purple.svg' width=24 />](https://mastodon.social/@vhgauto)
 
+Full curriculum [here](https://vhgauto.github.io/cv/).
+
 ✌️
